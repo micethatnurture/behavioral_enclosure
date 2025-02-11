@@ -1,6 +1,6 @@
 # 🐭 Mouse Maternal Behavior Video Recording (Raspberry Pi) 🎥  
 
-This repository contains a **Python-based video recording system** designed to run on a **Raspberry Pi** for **continuous 24/7 monitoring of mouse maternal behavior**. The system efficiently captures and saves high-quality video while embedding timestamps, ensuring precise behavioral analysis.
+This repository contains a **Python-based video recording system** designed to run on a **Raspberry Pi** for **continuous 24/7 monitoring of mouse maternal behavior**. The system captures and saves high-quality video while embedding timestamps.
 
 ## 🔥 Features  
 ✅ **Continuous Video Capture** – Records 24/7 and saves video in `.mkv` format with timestamps.  
