@@ -1,2 +1,2 @@
 # behavioral_enclosure
-Repository containing code used to run 24/7 maternal behavior in behavioral enclosures.
+Repository containing code used to acquire 24/7 video using RPis.
